@@ -1,0 +1,88 @@
+p {
+    color: rgb(23, 23, 26);
+}
+body {
+    background-color: rgb(239, 201, 165);
+    margin:0px
+}
+
+.textlogo {
+    font-family: 'Oswald', serif;
+}
+
+
+.titulo {
+    color: chocolate;
+    background-color: bisque;
+    font-size: 2rem
+}
+.background {
+    background-color:rgb(239, 201, 165);
+}
+.background2 {
+
+    background-color: rgb(234, 219, 205);
+    margin:0px
+    
+}
+
+.bgtorta{  
+    background: beige;
+    border-radius: 1.5rem;
+}
+
+
+h1 {
+    background-color: beige;
+    color: brown;
+    border-radius: 1.5rem;
+    border: 2px solid red; 
+}
+#div1 {
+
+    height: 100px;
+    width: 100%;
+    border: 2px red;
+    border-style: solid;
+    border-width: 5px 5px;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    font-size: 20px;
+    padding: 30px;
+    margin: 10px;
+    font-size: 30px;
+ 
+}
+
+/* #div2 {
+    height: 100px;
+    width: 100%;
+    border: 2px red;
+    border-style: solid;
+    border-width: 5px 5px;
+    padding: 10px 10px 10px 10px;
+    padding: 30px;
+    margin: 10px;
+    color: black;
+} */
+
+#div3{
+    text-align: center;
+}
+#img{
+    border: 3px solid red;
+    text-align: center;
+    min-width: 100%;
+    max-width: 100%;
+
+}
+#img2 {
+    border: 3px solid red;
+    text-align: center;
+    min-width: 100%;
+    max-width: 100%;
+}
+
+iframe {
+    width: 100%; /* takes precedence over the width set with the HTML width attribute */
+  }
